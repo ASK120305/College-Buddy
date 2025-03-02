@@ -4,10 +4,9 @@ College Buddy is a comprehensive platform designed to enhance campus life by pro
 <br>
 Features
 <br>
-Automated Class & Subject Notifications
-<br>
-Daily Cafeteria Menu Updates
-<br>
-Emergency Contacts System
-<br>
-Lost & Found System
+<ul>
+  <li>Automated Class & Subject Notifications</li>
+  <li>Daily Cafeteria Menu Updates</li>
+  <li>Emergency Contacts System</li>
+  <li>Lost & Found System</li>
+</ul>
